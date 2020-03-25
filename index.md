@@ -71,7 +71,7 @@ footer {
 </head>
 <body>
 <header>
-  <h2>Cities</h2>
+  <h2>Matthew Empire Army and Horde</h2>
 </header>
 
 <section>
