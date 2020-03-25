@@ -14,7 +14,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #666;
+  background-color: green;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -26,7 +26,7 @@ nav {
   float: left;
   width: 30%;
   height: 300px; /* only for demonstration, should be removed */
-  background: #ccc;
+  background: brown;
   padding: 20px;
 }
 
@@ -53,7 +53,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #777;
+  background-color: black;
   padding: 10px;
   text-align: center;
   color: white;
