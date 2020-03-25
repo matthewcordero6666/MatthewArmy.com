@@ -83,9 +83,9 @@ footer {
   </nav>
   
   <article>
-    <h1>Matthew Army</h1>
-    <p>The main fighting force of the matthew empire</p>
-  <p>second only to genghis khan</p>
+    <h1>Join the Matthew Army</h1>
+    <p>fill out the form at the link below</p>
+    <a href="">join matthew army google form</a>
   </article>
 </section>
 
