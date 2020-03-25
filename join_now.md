@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-<title>CSS Template</title>
+<title>MatthewArmy.com</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -76,7 +76,7 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="#">about the matthew army</a></li>
+      <li><a href="">about the matthew army</a></li>
       <li><a href="https://matthewcordero6666.github.io/MatthewArmy.com/join_now.md">join now</a></li>
       <li><a href="https://matthewcordero6666.github.io/MatthewArmy.com/">home</a></li>
     </ul>
