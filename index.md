@@ -84,14 +84,15 @@ footer {
   </nav>
   
   <article>
-    <h1>London</h1>
-    <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+    <h1>Matthew Army</h1>
+    <p>The main fightibg force of the matthew empire</p>
+  <p>second only to genghis khan</p>
   </article>
 </section>
 
 <footer>
-  <p>Footer</p>
+  <p>Matthew Army: enlist now defeat the enemies of matthew</p>
+  <p>"Those who are annoyed by General Matthew, are only jealous of his intelect and fighting skill" - General Davis Gulley</p>
 </footer>
 
 </body>
