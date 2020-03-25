@@ -26,7 +26,7 @@ nav {
   float: left;
   width: 30%;
   height: 300px; /* only for demonstration, should be removed */
-  background: brown;
+  background: darkbrown;
   padding: 20px;
 }
 
