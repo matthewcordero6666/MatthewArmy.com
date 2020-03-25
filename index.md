@@ -84,7 +84,7 @@ footer {
   
   <article>
     <h1>Matthew Army</h1>
-    <p>The main fightibg force of the matthew empire</p>
+    <p>The main fighting force of the matthew empire</p>
   <p>second only to genghis khan</p>
   </article>
 </section>
