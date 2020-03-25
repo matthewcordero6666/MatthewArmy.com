@@ -76,9 +76,9 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="#">London</a></li>
-      <li><a href="#">Paris</a></li>
-      <li><a href="#">Tokyo</a></li>
+      <li><a href="#">about the matthew army</a></li>
+      <li><a href="#">join now</a></li>
+      <li><a href="#">home</a></li>
     </ul>
   </nav>
   
