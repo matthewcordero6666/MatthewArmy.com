@@ -79,7 +79,7 @@ footer {
   <article>
     <h1>Join the Matthew Army</h1>
     <p>fill out the form at the link below</p>
-    <a href="">join matthew army google form</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdN65WX3GGic2bOz5jFyW9-xuzkt0cxxAdRZ10d8akDgjRfKQ/viewform">join matthew army google form</a>
   </article>
 </section>
 
