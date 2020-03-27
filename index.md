@@ -76,7 +76,7 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="">about the matthew army</a></li>
+      <li><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about">about the matthew army</a></li>
       <li><a href="https://matthewcordero6666.github.io/MatthewArmy.com/join_now">join now</a></li>
       <li><a href="https://matthewcordero6666.github.io/MatthewArmy.com/">home</a></li>
     </ul>
