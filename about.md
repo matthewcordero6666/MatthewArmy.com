@@ -79,15 +79,15 @@ footer {
   <article>
     <h1>About the Matthew Army</h1>
     <p>Click on the links below to learn about each topic</p>
-    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/ranks">ranks</a></p>
-    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/commanders">list of generals and high ranking commanders</a></p>
-    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/training">training</a></p>
-    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/history">history of the matthew army</a></p>
-    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/equipment">equipment</a></p>
-    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/traditions">matthew army military traditions</a></p>
-    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/doctrine">matthew army tactics</a></p>
-    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/wars">matthew army engagements list and famous battles</a></p>
-    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/organization">structure</a></p>
+    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/ranks">ranks</a></p><br>
+    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/commanders">list of generals and high ranking commanders</a></p><br>
+    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/training">training</a></p><br>
+    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/history">history of the matthew army</a></p><br>
+    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/equipment">equipment</a></p><br>
+    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/traditions">matthew army military traditions</a></p><br>
+    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/doctrine">matthew army tactics</a></p><br>
+    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/wars">matthew army engagements list and famous battles</a></p><br>
+    <p><a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/organization">structure</a></p><br>
     <p>Anyone who has misused this information for subterfuge including intel gathering and counterattacking of military doctrine for enemy forces will be severely punished</p>
   </article>
 </section>
