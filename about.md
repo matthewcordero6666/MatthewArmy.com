@@ -79,6 +79,16 @@ footer {
   <article>
     <h1>About the Matthew Army</h1>
     <p>Click on the links below to learn about each topic</p>
+    <a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/ranks">ranks</a>
+    <a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/commanders">list of generals and high ranking commanders</a>
+    <a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/training">training</a>
+    <a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/history">history of the matthew army</a>
+    <a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/equipment">equipment</a>
+    <a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/traditions">matthew army military traditions</a>
+    <a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/doctrine">matthew army tactics</a>
+    <a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/wars">matthew army engagements list and famous battles</a>
+    <a href="https://matthewcordero6666.github.io/MatthewArmy.com/about/organization">structure</a>
+    <p>Anyone who has misused this information for subterfuge including intel gathering and counterattacking of military doctrine for enemy forces will be severely punished</p>
   </article>
 </section>
 
